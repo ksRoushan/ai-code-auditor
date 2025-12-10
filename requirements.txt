@@ -1,0 +1,14 @@
+# --- API Dependencies (NEW) ---
+fastapi
+uvicorn
+python-multipart
+
+# --- Your Existing Dependencies (KEEP THESE) ---
+langgraph
+langchain
+google-generativeai
+python-dotenv
+gitpython
+bandit
+flake8
+radon
