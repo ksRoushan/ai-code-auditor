@@ -10,12 +10,6 @@ __pycache__/
 venv/
 env/
 
-# Ignore the temp folders your agents create
-repo_*/
-temp_bad_repo/
-
-# Ignore the test input file itself
-test_file.zip
 
 # Ignore VS Code settings
 .vscode/
